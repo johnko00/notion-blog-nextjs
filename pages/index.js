@@ -16,9 +16,6 @@ export default function Home({ posts }) {
 
       <main className={styles.container}>
         <header className={styles.header}>
-          <div className={styles.logos}>
-
-          </div>
           <h1>jo</h1>
           <p>
             書きたい時だけ
